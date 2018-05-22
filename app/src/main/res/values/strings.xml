@@ -1,0 +1,132 @@
+<resources>
+    <string name="app_name">Castell</string>
+
+    <string name="home">Home</string>
+    <string name="village">Village</string>
+    <string name="wine">Wine</string>
+    <string name="hospitality">Hospitality</string>
+    <string name="folklore">Folklore</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="welcome_message">Welcome to Castell!</string>
+    <string name="general_info">The village of Castell lies near the romnatic forest range of the
+        Steigerwald in Unterfanken (lower Franconion), Germany. It is also the seat of the noble
+        dynasty of "Castell".
+        \n
+        \nThe village has a long standing tradition of viticulture. Some of Franconians finest wines
+        are pressed in the Dom&#228;nenamt of Castell, the vineyard estate owned by the noble
+        dynasty of Castell.
+        \n
+        \nCastell delights its visitors with beautiful landscapes, traditional Franconian dishes and
+        of course the extraordinary wine, and enthralls friends of culture and history with
+        historical sides and a wide array of concerts and other cultural events.</string>
+    <string name="new_castle_name">The Castle of Castell</string>
+    <string name="new_castle_info">The \"new\" castle of Castell is the current seat of the noble
+        dynasty of Castell-Castell. The building works started in 1687 and were finished in 1691. It is a
+        three winged structure in the style of the early baroque.</string>
+    <string name="town_hall_name">Town Hall</string>
+    <string name="town_hall_info">The Town Hall of Castell was built in 1848. Originally, it was the
+        local school building. In the upper stocks, lessons were held up till 1969. Since 1978 it
+        serves not only for as the town hall for Castell, but also for the incorporated communes
+        Greuth and W&#252;stenfelden. The backside of the building is home of a home museum.</string>
+    <string name="castell_bank_name">Castell Bank</string>
+    <string name="castell_bank_info">The \"Comital Castell-Remlingen\'sche Country Credit-Casa\" of
+        Castell was founded by Friedrich Adolph von Zwanziger in 1774. It was originally a welfare
+        institution intended to help the impoverished farmers in the area with favourable credits
+        as well as fighting the usury in the county.
+        \n It was then transformed into the \"Princely Castell Bank\" during the 19th and 20th
+        century. It is considered the oldes Bavarian bank and one of the few banks in private
+        ownership, belonging to the dynasty of Castell.</string>
+    <string name="church_name">Church St. Johannes</string>
+    <string name="church_info">The evangelic-lutheran church St. Johannes is one of the oldest
+        churches in the area. It was first mentioned in the 13th century. The current building was
+        completed in 1792. The outside structure is held in the style of the late baroque, while
+        the inner building is dominated by the classicism. </string>
+    <string name="archive_name">The Archive</string>
+    <string name="archive_info">The "Princely Archive of Castell" stores over 8000 documents from
+        about the villages of the county Castell from 1224 to the 20th century.</string>
+    <string name="castle_tower_name">The old Castle Tower</string>
+    <string name="castle_tower_info">The old Castle Tower is the last standing remnant of the old
+        fortress and castle of the counts of Castell-Castell. They where not build within village, but on
+        two hills rising over the settlement: the Herrenberg (lords\' hill) and the Schloßberg
+        (castle\'s hill).</string>
+    <string name="casteller_wine_name">Casteller Wein</string>
+    <string name="casteller_wine_info">Castell is a famous for its fine wines. The grapes cultivated
+        in the vineyards around the village are mainly the typical Franconian varieties like
+        M&#252;ller-Thurgau, Bacchus, Riesling, Domani and of course Silvaner, the traditionally
+        most important grape of the area. A documents from 1659 implies that the first Franconian
+        Silvaner was planted in Castell. \n A lot, but not all of the wine, are filled in
+        Bocksbeutel, a traditional Franconian form for wine bottles.</string>
+    <string name="vineyard_name">Vineyards</string>
+    <string name="vineyard_info">There are seven vineyard sites surrounding Castell: Schlossberg,
+        Reitsteig, Kirchberg, Trautberg, Hohnart, Kugelspiel and Bausch. The soil consists mainly
+        out of clay and gypsum-keuper.</string>
+    <string name="weinbergstulpe_name">Weinbergstulpen</string>
+    <string name="weinbergstulpe_info">The bright yellow Weinbergstulpe is a flower that can be
+        found in the vineyards around Castell. It blooms in bright yellows. In the spring, the
+        people of Castell hold a feast to celebrated it, called \"Weinbergstulpenfest\".</string>
+    <string name="schwan_name">Zum Schwan</string>
+    <string name="schwan_info">The inn \"Zum Schwan\" (to the swan) offers traditional Franconian
+        cuisine, wine and rooms for guests.</string>
+    <string name="weinstall_name">Weinstall</string>
+    <string name="weinstall_info">The restaurant "Weinstall" has been build in the stables of the
+        new castle. It offers finest Franconian cuisine as well as wine from Castell.</string>
+    <string name="gruener_baum_name">Gr&#252;ner Baum</string>
+    <string name="gruener_baum_info">The tavern "Gr&#252;ner Baum" offers only drinks and is a
+        meeting place for locals.</string>
+    <string name="kniebrecher_name">Kniebrecher</string>
+    <string name="kniebrecher_info">The Kniebrecher is a café and bistro. It offers food and drinks
+        and is a popular meeting place for the locals. Its nem, which means \"knee breaker\" comes
+        from the steep incline at which start it lies.</string>
+    <string name="kerm_name">Kerm</string>
+    <string name="kerm_info">The \"Kerm\" is a traditional fair in Franconian held to celebrate the
+        benediction of the local church. In Castell, the Kerm takes place in the autumn and lasts
+        for several days. An important part of it is the so called \"Kirchweihrede\" during which
+        the young men of the village tell short stories and perform plays about funny occurrences
+        that happened to the people over the year.
+    </string>
+    <string name="may_tree_name">Erection of the May Tree</string>
+    <string name="may_tree_info">At the 30th of April, the young men of Castell erect the May Tree.
+        It is traditionally a tall, slender birch with red-white ribbons in its crown. When the tree
+        has been erected, it has to be guarded as the young people from the surrounding villages
+        will try to steal each others trees. If a tree is successfully stolen, the young people
+        who couldn\'t defend their tree have to pay a ransom of beer.</string>
+    <string name="spectaculum_name">Spectaculum of Castell</string>
+    <string name="spectaculum_info">In 2016 Castell celebrated its 1200 anniversary. The pinnacle
+        of the celebration was a Medieval Market including a knight\'s festival performed by the
+        stunt crew \"Geyers Enkel\" of the Florian-Geyer-Spiele in Giebelstadt.</string>
+    <string name="gruendleinsloch_name">The Gr&#252;ndleinsloch</string>
+    <string name="gruendleinsloch_info">The Gr&#252;ndleinsloch is a well outside the village of
+        Castell. Known for its mysterious blue water, it is the center of many local legends.
+        \n
+        \nOne of the most famous tells of three young women visiting the feasts in the castle,
+        enticing the young men with their beauty and grace, but always leaving before midnight.
+        \nWhen some of the young men set the clock of the church tower at the wrong time to trick
+        them into staying longer, they flee in panic as they hear the bell ring midnight.
+        \nThe young men follow them and watch them running down to the well and throwing themselves
+        inside it. However, once the young men themselves reach the well, they see to their horror
+        a swirl of blood rising to the surface. The three young maidens never returned.
+    </string>
+    <string name="blue_woman_name">The Blue Woman of Castell</string>
+    <string name="blue_woman_info">The Blue Woman is a guardian spirit of the dynasty of
+        Castell-Castell.
+        \n
+        \nOnce a countess of Castell herself, she told her husband who was going to
+        war that should he suffer great misery and knew now other way, he should look towards his
+        home in the west during sundown and say her name three times. As the count becomes a captive
+        rotting away in a forgotten prison of the enemy, he finally can\'t bear being separated from
+        his family anymore, he calls his wife\'s name during sundown and is freed by a magical blue
+        light that opens his chains, makes his guardians fall asleep and guides him to a pegasus
+        which carries him home.
+        \nWhen he arrives at home, however, everyone is grieving. Entering the castle, he learns
+        that last night at sundown his wife sat at the window, looking eastwards as she suddenly
+        whispered \"I\'m coming\" and fell dead to the floor.
+        \n
+        \nLater, during the peasants war, the blue woman appeared again. In a dream she showed
+        the son of the count in the besieged castle a secret passage through which he could flee
+        with his siblings and his mother.
+        \n
+        \nSource: "Zwischerlichten" by Teophil Steinbrenner, Gerhard Wahler, Auguste Steinberger and
+        Felix von Fokczynski.
+    </string>
+    <string name="entries">Entries</string>
+</resources>

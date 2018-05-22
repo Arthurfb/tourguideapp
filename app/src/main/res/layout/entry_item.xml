@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/container"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal"
+    android:padding="@dimen/entryPadding">
+
+    <ImageView
+        android:id="@+id/entry_image"
+        android:layout_width="@dimen/smallImageSize"
+        android:layout_height="@dimen/smallImageSize"
+        tools:src="@drawable/new_castle" />
+
+    <TextView
+        android:id="@+id/entry_name"
+        style="@style/EntryName"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/smallImageSize"
+        android:gravity="center"
+        tools:text="@string/new_castle_name" />
+
+    <TextView
+        android:id="@+id/entry_info"
+        style="@style/EntryName"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/smallImageSize"
+        android:gravity="center"
+        tools:text="@string/new_castle_name" />
+
+</LinearLayout>

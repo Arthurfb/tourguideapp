@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="generalMargin">16dp</dimen>
+    <dimen name="headText">40sp</dimen>
+    <dimen name="largeImageSize">200dp</dimen>
+    <dimen name="smallImageSize">100dp</dimen>
+    <dimen name="infoText">24sp</dimen>
+    <dimen name="entryText">32sp</dimen>
+    <dimen name="entryPadding">16dp</dimen>
+</resources>
